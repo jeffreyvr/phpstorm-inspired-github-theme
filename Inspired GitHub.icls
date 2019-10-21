@@ -1,10 +1,10 @@
 <scheme name="Inspired GitHub" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-10-21T14:41:16</property>
+    <property name="created">2019-10-21T18:57:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-21T14:41:31</property>
+    <property name="modified">2019-10-21T18:57:33</property>
     <property name="originalScheme">Inspired GitHub</property>
   </metaInfo>
   <option name="LINE_SPACING" value="2.0" />
@@ -421,6 +421,7 @@
     <option name="PHP_DOC_COMMENT_ID">
       <value>
         <option name="FOREGROUND" value="969896" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
@@ -564,6 +565,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="333333" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
