@@ -17,4 +17,4 @@ Uses the Operator Mono font, and Menlo as a fallback.
 * Select the 'Inspired Github.icls' and hit 'Apply'.
 
 ## Note
-This was put together quickly. If you have any improvements, please feel contribute.
+This was put together quickly. If you have any improvements, please feel free to contribute.
